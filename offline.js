@@ -1,16 +1,33 @@
 ﻿{
-	"version": 1623404261,
+	"version": 1623593417,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
+		"images/player-sheet0.png",
+		"images/bullet-sheet0.png",
+		"images/cooltext-sheet0.png",
+		"images/cooltext2-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/7997ff7d225b-sheet0.png",
+		"images/7997ff7d225b-sheet1.png",
+		"images/7997ff7d225b-sheet2.png",
+		"images/7997ff7d225b-sheet3.png",
+		"images/7997ff7d225b-sheet4.png",
+		"images/7997ff7d225b-sheet5.png",
+		"images/dark-sheet0.png",
+		"images/1614641849_28pfondozhdyadlyafotoshopa-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"c2mp-net.js",
+		"c2mp-peer.js",
+		"c2mp.js",
+		"waker.js"
 	]
 }
