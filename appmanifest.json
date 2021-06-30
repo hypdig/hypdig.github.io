@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Mafia GUS",
-	"short_name": "Mafia GUS",
+	"name": "Fight",
+	"short_name": "Fight",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
